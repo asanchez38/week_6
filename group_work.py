@@ -1,4 +1,4 @@
-# Names: Diego P, Abel S, Lorenzo G, Logan L, Andrew P, Tony 
+# Names: Diego P, Abel S, Lorenzo G, Logan L, Andrew P, Tony O
 
 #This makes the user input a paragrapgh and 3 random letters 
 text1 = input("Provide a paragraph: ").lower () #asks the user to put a paragraph and puts the paragraph in lower case
