@@ -28,3 +28,5 @@ print("the reverse of your text is", text1[::-1]) #reverses the text
 
 #check if python is in the text
 print("do you have python in your text:", "python" in text1) # This checks whether or not pyhton is in the sentence and says either false or true
+
+THIS IS FORKED
